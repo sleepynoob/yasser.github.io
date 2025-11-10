@@ -4,5 +4,18 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+<>> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on <>this page.
+<>{: .prompt-tip }
+
+
+# Hello, I’m Yasser 👋
+
+I’m passionate about research, language, and creativity through AI.
+
+## Background
+Write about your studies, what drives your curiosity, and how you got into research.
+
+## Research Interests
+- Speech synthesis and AI voices  
+- Natural language understanding  
+- Creative applications of ML
